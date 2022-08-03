@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Brandy Beach.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Brandy Down0000" x="0" y="0" width="418" height="675" pivotX="187.7" pivotY="451.55" frameX="-12" frameY="0" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0001" x="0" y="0" width="418" height="675" frameX="-12" frameY="0" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0002" x="418" y="0" width="441" height="648" frameX="-1" frameY="-28" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0003" x="418" y="0" width="441" height="648" frameX="-1" frameY="-28" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0004" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0005" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0006" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0007" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0008" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0009" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0010" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0011" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0012" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0013" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0014" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0015" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0016" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0017" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0018" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0019" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0020" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0021" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0022" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0023" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0024" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0025" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0026" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0027" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Down0028" x="859" y="0" width="438" height="635" frameX="0" frameY="-44" frameWidth="442" frameHeight="679"/>
+	<SubTexture name="Brandy Idle0000" x="1297" y="0" width="381" height="656" pivotX="201.2" pivotY="461.3" frameX="-7" frameY="-22" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0001" x="1297" y="0" width="381" height="656" frameX="-7" frameY="-22" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0002" x="1678" y="0" width="411" height="675" frameX="0" frameY="-3" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0003" x="1678" y="0" width="411" height="675" frameX="0" frameY="-3" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0004" x="2089" y="0" width="424" height="681" frameX="-10" frameY="0" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0005" x="2089" y="0" width="424" height="681" frameX="-10" frameY="0" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0006" x="2513" y="0" width="416" height="677" frameX="-14" frameY="-4" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0007" x="2513" y="0" width="416" height="677" frameX="-14" frameY="-4" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0008" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0009" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0010" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0011" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0012" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0013" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0014" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0015" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0016" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0017" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0018" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0019" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0020" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0021" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0022" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0023" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0024" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0025" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0026" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0027" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Idle0028" x="2929" y="0" width="398" height="667" frameX="-32" frameY="-14" frameWidth="434" frameHeight="681"/>
+	<SubTexture name="Brandy Left0000" x="3327" y="0" width="412" height="672" pivotX="130.3" pivotY="448" frameX="-5" frameY="0" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0001" x="3327" y="0" width="412" height="672" frameX="-5" frameY="0" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0002" x="0" y="681" width="459" height="666" frameX="0" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0003" x="0" y="681" width="459" height="666" frameX="0" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0004" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0005" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0006" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0007" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0008" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0009" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0010" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0011" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0012" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0013" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0014" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0015" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0016" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0017" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0018" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0019" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0020" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0021" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0022" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0023" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0024" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0025" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0026" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0027" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Left0028" x="459" y="681" width="432" height="666" frameX="-8" frameY="-6" frameWidth="459" frameHeight="672"/>
+	<SubTexture name="Brandy Mic Create0000" x="891" y="681" width="446" height="704" pivotX="242.45" pivotY="506.55" frameX="-43" frameY="-22" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0001" x="1337" y="681" width="451" height="704" frameX="-43" frameY="-22" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0002" x="1788" y="681" width="455" height="704" frameX="-43" frameY="-22" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0003" x="2243" y="681" width="460" height="704" frameX="-43" frameY="-22" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0004" x="2703" y="681" width="466" height="704" frameX="-43" frameY="-22" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0005" x="3169" y="681" width="471" height="704" frameX="-43" frameY="-22" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0006" x="0" y="1385" width="474" height="704" frameX="-43" frameY="-22" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0007" x="474" y="1385" width="480" height="704" frameX="-43" frameY="-22" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0008" x="954" y="1385" width="484" height="704" frameX="-43" frameY="-22" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0009" x="1438" y="1385" width="488" height="704" frameX="-43" frameY="-22" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0010" x="1926" y="1385" width="493" height="704" frameX="-43" frameY="-22" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0011" x="2419" y="1385" width="498" height="704" frameX="-43" frameY="-22" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0012" x="2917" y="1385" width="503" height="704" frameX="-43" frameY="-22" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0013" x="3420" y="1385" width="506" height="704" frameX="-43" frameY="-22" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0014" x="0" y="2089" width="681" height="726" frameX="0" frameY="0" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0015" x="681" y="2089" width="398" height="664" frameX="-65" frameY="-66" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0016" x="1079" y="2089" width="398" height="664" frameX="-65" frameY="-66" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0017" x="1477" y="2089" width="398" height="659" frameX="-65" frameY="-66" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0018" x="1875" y="2089" width="398" height="659" frameX="-65" frameY="-66" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0019" x="2273" y="2089" width="398" height="659" frameX="-65" frameY="-66" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0020" x="2273" y="2089" width="398" height="659" frameX="-65" frameY="-66" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0021" x="2273" y="2089" width="398" height="659" frameX="-65" frameY="-66" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0022" x="2273" y="2089" width="398" height="659" frameX="-65" frameY="-66" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0023" x="2273" y="2089" width="398" height="659" frameX="-65" frameY="-66" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0024" x="2273" y="2089" width="398" height="659" frameX="-65" frameY="-66" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0025" x="2273" y="2089" width="398" height="659" frameX="-65" frameY="-66" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0026" x="2273" y="2089" width="398" height="659" frameX="-65" frameY="-66" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0027" x="2273" y="2089" width="398" height="659" frameX="-65" frameY="-66" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Mic Create0028" x="2273" y="2089" width="398" height="659" frameX="-65" frameY="-66" frameWidth="681" frameHeight="730"/>
+	<SubTexture name="Brandy Right0000" x="2671" y="2089" width="406" height="672" pivotX="225" pivotY="447" frameX="-33" frameY="0" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0001" x="2671" y="2089" width="406" height="672" frameX="-33" frameY="0" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0002" x="3077" y="2089" width="402" height="668" frameX="0" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0003" x="3077" y="2089" width="402" height="668" frameX="0" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0004" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0005" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0006" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0007" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0008" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0009" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0010" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0011" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0012" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0013" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0014" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0015" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0016" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0017" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0018" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0019" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0020" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0021" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0022" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Right0023" x="3479" y="2089" width="403" height="668" frameX="-15" frameY="-4" frameWidth="439" frameHeight="672"/>
+	<SubTexture name="Brandy Up0000" x="0" y="2815" width="410" height="682" pivotX="194.85" pivotY="517.9" frameX="-15" frameY="-55" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0001" x="0" y="2815" width="410" height="682" frameX="-15" frameY="-55" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0002" x="410" y="2815" width="413" height="688" frameX="-12" frameY="-48" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0003" x="410" y="2815" width="413" height="688" frameX="-12" frameY="-48" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0004" x="823" y="2815" width="402" height="739" frameX="0" frameY="0" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0005" x="823" y="2815" width="402" height="739" frameX="0" frameY="0" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0006" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0007" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0008" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0009" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0010" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0011" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0012" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0013" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0014" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0015" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0016" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0017" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0018" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0019" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0020" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0021" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0022" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0023" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0024" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0025" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0026" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+	<SubTexture name="Brandy Up0027" x="1225" y="2815" width="390" height="712" frameX="-12" frameY="-28" frameWidth="425" frameHeight="740"/>
+</TextureAtlas>

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gabe_Rage.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gabe Down0000" x="0" y="0" width="523" height="651" pivotX="226.55" pivotY="423.1" frameX="-2" frameY="0" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0001" x="523" y="0" width="523" height="650" frameX="-2" frameY="-1" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0002" x="1046" y="0" width="458" height="640" frameX="0" frameY="-26" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0003" x="1504" y="0" width="458" height="639" frameX="0" frameY="-27" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0004" x="1962" y="0" width="515" height="659" frameX="0" frameY="-5" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0005" x="2477" y="0" width="515" height="658" frameX="0" frameY="-6" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0006" x="1962" y="0" width="515" height="659" frameX="0" frameY="-5" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0007" x="2477" y="0" width="515" height="658" frameX="0" frameY="-6" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0008" x="1962" y="0" width="515" height="659" frameX="0" frameY="-5" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0009" x="2477" y="0" width="515" height="658" frameX="0" frameY="-6" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0010" x="1962" y="0" width="515" height="659" frameX="0" frameY="-5" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0011" x="2477" y="0" width="515" height="658" frameX="0" frameY="-6" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0012" x="1962" y="0" width="515" height="659" frameX="0" frameY="-5" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0013" x="2477" y="0" width="515" height="658" frameX="0" frameY="-6" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0014" x="1962" y="0" width="515" height="659" frameX="0" frameY="-5" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0015" x="2477" y="0" width="515" height="658" frameX="0" frameY="-6" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0016" x="1962" y="0" width="515" height="659" frameX="0" frameY="-5" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0017" x="2477" y="0" width="515" height="658" frameX="0" frameY="-6" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0018" x="1962" y="0" width="515" height="659" frameX="0" frameY="-5" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0019" x="2477" y="0" width="515" height="658" frameX="0" frameY="-6" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0020" x="1962" y="0" width="515" height="659" frameX="0" frameY="-5" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0021" x="2477" y="0" width="515" height="658" frameX="0" frameY="-6" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0022" x="1962" y="0" width="515" height="659" frameX="0" frameY="-5" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0023" x="2477" y="0" width="515" height="658" frameX="0" frameY="-6" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0024" x="1962" y="0" width="515" height="659" frameX="0" frameY="-5" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0025" x="2477" y="0" width="515" height="658" frameX="0" frameY="-6" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Down0026" x="1962" y="0" width="515" height="659" frameX="0" frameY="-5" frameWidth="525" frameHeight="666"/>
+	<SubTexture name="Gabe Idle0000" x="2992" y="0" width="651" height="697" pivotX="305.9" pivotY="494.8" frameX="0" frameY="-24" frameWidth="654" frameHeight="724"/>
+	<SubTexture name="Gabe Idle0001" x="3643" y="0" width="651" height="696" frameX="0" frameY="-25" frameWidth="654" frameHeight="724"/>
+	<SubTexture name="Gabe Idle0002" x="4294" y="0" width="641" height="721" frameX="-13" frameY="0" frameWidth="654" frameHeight="724"/>
+	<SubTexture name="Gabe Idle0003" x="4935" y="0" width="641" height="721" frameX="-13" frameY="0" frameWidth="654" frameHeight="724"/>
+	<SubTexture name="Gabe Idle0004" x="5576" y="0" width="634" height="712" frameX="-6" frameY="-12" frameWidth="654" frameHeight="724"/>
+	<SubTexture name="Gabe Idle0005" x="6210" y="0" width="634" height="712" frameX="-6" frameY="-12" frameWidth="654" frameHeight="724"/>
+	<SubTexture name="Gabe Idle0006" x="5576" y="0" width="634" height="712" frameX="-6" frameY="-12" frameWidth="654" frameHeight="724"/>
+	<SubTexture name="Gabe Idle0007" x="6210" y="0" width="634" height="712" frameX="-6" frameY="-12" frameWidth="654" frameHeight="724"/>
+	<SubTexture name="Gabe Idle0008" x="5576" y="0" width="634" height="712" frameX="-6" frameY="-12" frameWidth="654" frameHeight="724"/>
+	<SubTexture name="Gabe Idle0009" x="6210" y="0" width="634" height="712" frameX="-6" frameY="-12" frameWidth="654" frameHeight="724"/>
+	<SubTexture name="Gabe Idle0010" x="5576" y="0" width="634" height="712" frameX="-6" frameY="-12" frameWidth="654" frameHeight="724"/>
+	<SubTexture name="Gabe Idle0011" x="6210" y="0" width="634" height="712" frameX="-6" frameY="-12" frameWidth="654" frameHeight="724"/>
+	<SubTexture name="Gabe Idle0012" x="5576" y="0" width="634" height="712" frameX="-6" frameY="-12" frameWidth="654" frameHeight="724"/>
+	<SubTexture name="Gabe Idle0013" x="6210" y="0" width="634" height="712" frameX="-6" frameY="-12" frameWidth="654" frameHeight="724"/>
+	<SubTexture name="Gabe Idle0014" x="5576" y="0" width="634" height="712" frameX="-6" frameY="-12" frameWidth="654" frameHeight="724"/>
+	<SubTexture name="Gabe Left0000" x="6844" y="0" width="616" height="711" pivotX="259.9" pivotY="481.95" frameX="0" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0001" x="7460" y="0" width="616" height="711" frameX="0" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0002" x="0" y="721" width="649" height="711" frameX="-18" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0003" x="649" y="721" width="649" height="711" frameX="-18" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0004" x="1298" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0005" x="1945" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0006" x="1298" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0007" x="1945" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0008" x="1298" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0009" x="1945" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0010" x="1298" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0011" x="1945" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0012" x="1298" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0013" x="1945" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0014" x="1298" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0015" x="1945" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0016" x="1298" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0017" x="1945" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0018" x="1298" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0019" x="1945" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0020" x="1298" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0021" x="1945" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0022" x="1298" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0023" x="1945" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0024" x="1298" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0025" x="1945" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Left0026" x="1298" y="721" width="647" height="711" frameX="-12" frameY="0" frameWidth="667" frameHeight="711"/>
+	<SubTexture name="Gabe Rage0000" x="2592" y="721" width="443" height="685" pivotX="299.85" pivotY="478.45" frameX="-87" frameY="-23" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0001" x="2592" y="721" width="443" height="685" frameX="-87" frameY="-23" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0002" x="2592" y="721" width="443" height="685" frameX="-87" frameY="-23" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0003" x="2592" y="721" width="443" height="685" frameX="-87" frameY="-23" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0004" x="3035" y="721" width="493" height="685" frameX="-87" frameY="-23" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0005" x="3035" y="721" width="493" height="685" frameX="-87" frameY="-23" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0006" x="3035" y="721" width="493" height="685" frameX="-87" frameY="-23" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0007" x="3035" y="721" width="493" height="685" frameX="-87" frameY="-23" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0008" x="3035" y="721" width="493" height="685" frameX="-87" frameY="-23" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0009" x="3035" y="721" width="493" height="685" frameX="-87" frameY="-23" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0010" x="3528" y="721" width="634" height="708" frameX="0" frameY="0" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0011" x="4162" y="721" width="654" height="708"/>
+	<SubTexture name="Gabe Rage0012" x="4816" y="721" width="654" height="708"/>
+	<SubTexture name="Gabe Rage0013" x="5470" y="721" width="654" height="708"/>
+	<SubTexture name="Gabe Rage0014" x="6124" y="721" width="634" height="708" frameX="0" frameY="0" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0015" x="6758" y="721" width="634" height="708" frameX="0" frameY="0" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0016" x="6124" y="721" width="634" height="708" frameX="0" frameY="0" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0017" x="6758" y="721" width="634" height="708" frameX="0" frameY="0" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0018" x="6124" y="721" width="634" height="708" frameX="0" frameY="0" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Rage0019" x="6758" y="721" width="634" height="708" frameX="0" frameY="0" frameWidth="654" frameHeight="708"/>
+	<SubTexture name="Gabe Right0000" x="7392" y="721" width="659" height="700" pivotX="353.55" pivotY="469.95" frameX="-42" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0001" x="0" y="1432" width="659" height="700" frameX="-42" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0002" x="659" y="1432" width="574" height="700" frameX="0" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0003" x="1233" y="1432" width="574" height="700" frameX="0" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0004" x="1807" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0005" x="2463" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0006" x="1807" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0007" x="2463" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0008" x="1807" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0009" x="2463" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0010" x="1807" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0011" x="2463" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0012" x="1807" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0013" x="2463" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0014" x="1807" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0015" x="2463" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0016" x="1807" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0017" x="2463" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0018" x="1807" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0019" x="2463" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0020" x="1807" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0021" x="2463" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0022" x="1807" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0023" x="2463" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0024" x="1807" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0025" x="2463" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Right0026" x="1807" y="1432" width="656" height="700" frameX="-17" frameY="0" frameWidth="701" frameHeight="700"/>
+	<SubTexture name="Gabe Up0000" x="3119" y="1432" width="716" height="734" pivotX="391.8" pivotY="544.2" frameX="-18" frameY="-54" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0001" x="3835" y="1432" width="716" height="734" frameX="-18" frameY="-54" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0002" x="4551" y="1432" width="729" height="788" frameX="0" frameY="-1" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0003" x="5280" y="1432" width="729" height="789" frameX="0" frameY="0" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0004" x="6009" y="1432" width="729" height="764" frameX="0" frameY="-24" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0005" x="6738" y="1432" width="729" height="763" frameX="0" frameY="-25" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0006" x="6009" y="1432" width="729" height="764" frameX="0" frameY="-24" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0007" x="6738" y="1432" width="729" height="763" frameX="0" frameY="-25" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0008" x="6009" y="1432" width="729" height="764" frameX="0" frameY="-24" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0009" x="6738" y="1432" width="729" height="763" frameX="0" frameY="-25" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0010" x="6009" y="1432" width="729" height="764" frameX="0" frameY="-24" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0011" x="6738" y="1432" width="729" height="763" frameX="0" frameY="-25" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0012" x="6009" y="1432" width="729" height="764" frameX="0" frameY="-24" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0013" x="6738" y="1432" width="729" height="763" frameX="0" frameY="-25" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0014" x="6009" y="1432" width="729" height="764" frameX="0" frameY="-24" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0015" x="6738" y="1432" width="729" height="763" frameX="0" frameY="-25" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0016" x="6009" y="1432" width="729" height="764" frameX="0" frameY="-24" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0017" x="6738" y="1432" width="729" height="763" frameX="0" frameY="-25" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0018" x="6009" y="1432" width="729" height="764" frameX="0" frameY="-24" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0019" x="6738" y="1432" width="729" height="763" frameX="0" frameY="-25" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0020" x="6009" y="1432" width="729" height="764" frameX="0" frameY="-24" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0021" x="6738" y="1432" width="729" height="763" frameX="0" frameY="-25" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0022" x="6009" y="1432" width="729" height="764" frameX="0" frameY="-24" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0023" x="6738" y="1432" width="729" height="763" frameX="0" frameY="-25" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0024" x="6009" y="1432" width="729" height="764" frameX="0" frameY="-24" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0025" x="6738" y="1432" width="729" height="763" frameX="0" frameY="-25" frameWidth="734" frameHeight="789"/>
+	<SubTexture name="Gabe Up0026" x="6009" y="1432" width="729" height="764" frameX="0" frameY="-24" frameWidth="734" frameHeight="789"/>
+</TextureAtlas>
