@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hunter Dead.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DEATH0000" x="0" y="0" width="544" height="709" pivotX="252.25" pivotY="354.1" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0001" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0002" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0003" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0004" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0005" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0006" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0007" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0008" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0009" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0010" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0011" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0012" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0013" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0014" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0015" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0016" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0017" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0018" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0019" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0020" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0021" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0022" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0023" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0024" x="544" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0025" x="1088" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0026" x="1088" y="0" width="544" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0027" x="1632" y="0" width="496" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0028" x="1632" y="0" width="496" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0029" x="2128" y="0" width="509" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0030" x="2128" y="0" width="509" height="709" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0031" x="2637" y="0" width="539" height="777" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0032" x="2637" y="0" width="539" height="777" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0033" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0034" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0035" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0036" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0037" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0038" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0039" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0040" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0041" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0042" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0043" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0044" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0045" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0046" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0047" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0048" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0049" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0050" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0051" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0052" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0053" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="DEATH0054" x="3176" y="0" width="539" height="827" frameX="0" frameY="0" frameWidth="544" frameHeight="827"/>
+	<SubTexture name="Hunter Dead Loop0000" x="3715" y="0" width="539" height="827" pivotX="252.25" pivotY="354.1"/>
+	<SubTexture name="Hunter Dead Loop0001" x="4254" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0002" x="4254" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0003" x="4793" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0004" x="4793" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0005" x="5332" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0006" x="5332" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0007" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0008" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0009" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0010" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0011" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0012" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0013" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0014" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0015" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0016" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0017" x="3715" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0018" x="4254" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0019" x="4254" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0020" x="4793" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0021" x="4793" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0022" x="5332" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0023" x="5332" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0024" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0025" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0026" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0027" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0028" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0029" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0030" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0031" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0032" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead Loop0033" x="5871" y="0" width="539" height="827"/>
+	<SubTexture name="Hunter Dead confirm0000" x="6410" y="0" width="539" height="827" pivotX="252.25" pivotY="391.5" frameX="0" frameY="-37" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0001" x="6949" y="0" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0002" x="7488" y="0" width="539" height="864"/>
+	<SubTexture name="Hunter Dead confirm0003" x="0" y="864" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0004" x="539" y="864" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0005" x="1078" y="864" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0006" x="1617" y="864" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0007" x="2156" y="864" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0008" x="2695" y="864" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0009" x="3234" y="864" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0010" x="3773" y="864" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0011" x="4312" y="864" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0012" x="4851" y="864" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0013" x="5390" y="864" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0014" x="5929" y="864" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0015" x="6468" y="864" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0016" x="7007" y="864" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0017" x="7546" y="864" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0018" x="0" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0019" x="539" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0020" x="1078" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0021" x="1617" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0022" x="1617" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0023" x="2156" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0024" x="2156" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0025" x="2695" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0026" x="2695" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0027" x="2695" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0028" x="2695" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0029" x="2695" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0030" x="2695" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0031" x="2695" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0032" x="2695" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+	<SubTexture name="Hunter Dead confirm0033" x="2695" y="1698" width="539" height="834" frameX="0" frameY="-30" frameWidth="539" frameHeight="864"/>
+</TextureAtlas>
