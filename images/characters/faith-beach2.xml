@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="faith-beach2.png">
+<SubTexture name="faith-beach2 down0000" x="1188" y="2128" width="421" height="659" frameX="-573" frameY="-130" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0001" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0002" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0003" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0004" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0005" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0006" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0007" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0008" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0009" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0010" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0011" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0012" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0013" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0014" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0015" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0016" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0017" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0018" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0019" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0020" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0021" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0022" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 down0023" x="782" y="2128" width="406" height="661" frameX="-584" frameY="-128" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 idle0000" x="1609" y="2128" width="406" height="658" frameX="-536" frameY="-131" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 idle0001" x="1609" y="2128" width="406" height="658" frameX="-536" frameY="-131" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 idle0002" x="388" y="2128" width="394" height="662" frameX="-538" frameY="-127" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 idle0003" x="388" y="2128" width="394" height="662" frameX="-538" frameY="-127" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 idle0004" x="0" y="2128" width="388" height="668" frameX="-539" frameY="-121" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 idle0005" x="0" y="2128" width="388" height="668" frameX="-539" frameY="-121" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 idle0006" x="2533" y="0" width="384" height="670" frameX="-542" frameY="-119" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 idle0007" x="2533" y="0" width="384" height="670" frameX="-542" frameY="-119" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 idle0008" x="1665" y="713" width="384" height="673" frameX="-543" frameY="-116" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 idle0009" x="1665" y="713" width="384" height="673" frameX="-543" frameY="-116" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 idle0010" x="888" y="1452" width="394" height="673" frameX="-543" frameY="-116" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0000" x="1282" y="1452" width="438" height="672" frameX="-545" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0001" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0002" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0003" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0004" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0005" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0006" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0007" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0008" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0009" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0010" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0011" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0012" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0013" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0014" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0015" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0016" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0017" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0018" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0019" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0020" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0021" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0022" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 left0023" x="1720" y="1452" width="444" height="672" frameX="-538" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0000" x="1188" y="2128" width="421" height="659" frameX="-573" frameY="-130" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0001" x="1665" y="0" width="421" height="713" frameX="-573" frameY="-76" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0002" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0003" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0004" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0005" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0006" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0007" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0008" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0009" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0010" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0011" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0012" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0013" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0014" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0015" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0016" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0017" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0018" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0019" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0020" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0021" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0022" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss down0023" x="0" y="735" width="415" height="717" frameX="-576" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0000" x="1282" y="1452" width="438" height="672" frameX="-545" frameY="-117" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0001" x="415" y="735" width="438" height="717" frameX="-545" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0002" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0003" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0004" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0005" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0006" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0007" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0008" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0009" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0010" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0011" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0012" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0013" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0014" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0015" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0016" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0017" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0018" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0019" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0020" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0021" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0022" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss left0023" x="853" y="735" width="439" height="717" frameX="-543" frameY="-72" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0000" x="441" y="1452" width="447" height="674" frameX="-603" frameY="-115" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0001" x="2086" y="0" width="447" height="711" frameX="-603" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0002" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0003" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0004" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0005" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0006" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0007" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0008" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0009" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0010" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0011" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0012" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0013" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0014" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0015" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0016" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0017" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0018" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0019" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0020" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0021" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0022" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss right0023" x="2086" y="711" width="447" height="711" frameX="-601" frameY="-78" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0000" x="0" y="0" width="415" height="735" frameX="-562" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0001" x="415" y="0" width="415" height="735" frameX="-562" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0002" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0003" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0004" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0005" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0006" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0007" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0008" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0009" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0010" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0011" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0012" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0013" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0014" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0015" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0016" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0017" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0018" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0019" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0020" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0021" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0022" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 miss up0023" x="1242" y="0" width="423" height="731" frameX="-558" frameY="-58" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0000" x="441" y="1452" width="447" height="674" frameX="-603" frameY="-115" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0001" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0002" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0003" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0004" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0005" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0006" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0007" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0008" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0009" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0010" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0011" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0012" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0013" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0014" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0015" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0016" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0017" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0018" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0019" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0020" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0021" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0022" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 right0023" x="0" y="1452" width="441" height="676" frameX="-609" frameY="-113" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0000" x="0" y="0" width="415" height="735" frameX="-562" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0001" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0002" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0003" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0004" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0005" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0006" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0007" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0008" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0009" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0010" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0011" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0012" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0013" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0014" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0015" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0016" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0017" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0018" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0019" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0020" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0021" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0022" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+<SubTexture name="faith-beach2 up0023" x="830" y="0" width="412" height="735" frameX="-568" frameY="-54" frameWidth="1529" frameHeight="793" />
+</TextureAtlas>

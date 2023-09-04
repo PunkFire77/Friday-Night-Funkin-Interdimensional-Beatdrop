@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lyn-beach.png">
+<SubTexture name="lyn-beach down0000" x="777" y="2147" width="395" height="608" frameX="-112" frameY="-133" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0001" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0002" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0003" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0004" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0005" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0006" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0007" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0008" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0009" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0010" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0011" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0012" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0013" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0014" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0015" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0016" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0017" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0018" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0019" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0020" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0021" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0022" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach down0023" x="395" y="2147" width="382" height="614" frameX="-116" frameY="-127" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach idle0000" x="2422" y="692" width="423" height="687" frameX="-154" frameY="-58" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach idle0001" x="2422" y="692" width="423" height="687" frameX="-154" frameY="-58" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach idle0002" x="2422" y="0" width="458" height="692" frameX="-114" frameY="-53" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach idle0003" x="2422" y="0" width="458" height="692" frameX="-114" frameY="-53" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach idle0004" x="1703" y="1445" width="443" height="697" frameX="-123" frameY="-48" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach idle0005" x="1703" y="1445" width="443" height="697" frameX="-123" frameY="-48" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach idle0006" x="1271" y="1445" width="432" height="699" frameX="-131" frameY="-46" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach idle0007" x="1271" y="1445" width="432" height="699" frameX="-131" frameY="-46" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach idle0008" x="439" y="1445" width="419" height="700" frameX="-144" frameY="-45" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach idle0009" x="439" y="1445" width="419" height="700" frameX="-144" frameY="-45" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach idle0010" x="858" y="1445" width="413" height="700" frameX="-150" frameY="-45" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0000" x="1989" y="0" width="433" height="702" frameX="-188" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0001" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0002" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0003" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0004" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0005" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0006" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0007" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0008" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0009" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0010" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0011" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0012" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0013" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0014" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0015" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0016" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0017" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0018" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0019" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0020" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0021" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0022" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach left0023" x="0" y="1445" width="439" height="702" frameX="-182" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0000" x="777" y="2147" width="395" height="608" frameX="-112" frameY="-133" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0001" x="0" y="2147" width="395" height="639" frameX="-112" frameY="-102" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0002" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0003" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0004" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0005" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0006" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0007" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0008" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0009" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0010" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0011" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0012" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0013" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0014" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0015" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0016" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0017" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0018" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0019" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0020" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0021" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0022" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss down0023" x="2422" y="1379" width="391" height="642" frameX="-114" frameY="-99" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0000" x="1989" y="0" width="433" height="702" frameX="-188" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0001" x="0" y="726" width="433" height="719" frameX="-188" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0002" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0003" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0004" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0005" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0006" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0007" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0008" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0009" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0010" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0011" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0012" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0013" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0014" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0015" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0016" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0017" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0018" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0019" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0020" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0021" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0022" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss left0023" x="433" y="726" width="436" height="719" frameX="-185" frameY="-26" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0000" x="1587" y="706" width="401" height="699" frameX="-56" frameY="-46" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0001" x="0" y="0" width="401" height="726" frameX="-56" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0002" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0003" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0004" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0005" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0006" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0007" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0008" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0009" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0010" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0011" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0012" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0013" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0014" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0015" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0016" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0017" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0018" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0019" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0020" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0021" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0022" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss right0023" x="401" y="0" width="402" height="726" frameX="-57" frameY="-19" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0000" x="869" y="726" width="388" height="714" frameX="-155" frameY="-31" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0001" x="803" y="0" width="388" height="725" frameX="-155" frameY="-20" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0002" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0003" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0004" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0005" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0006" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0007" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0008" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0009" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0010" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0011" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0012" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0013" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0014" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0015" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0016" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0017" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0018" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0019" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0020" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0021" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0022" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach miss up0023" x="1191" y="0" width="396" height="723" frameX="-151" frameY="-22" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0000" x="1587" y="706" width="401" height="699" frameX="-56" frameY="-46" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0001" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0002" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0003" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0004" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0005" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0006" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0007" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0008" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0009" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0010" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0011" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0012" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0013" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0014" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0015" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0016" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0017" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0018" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0019" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0020" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0021" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0022" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach right0023" x="1989" y="702" width="404" height="702" frameX="-58" frameY="-43" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0000" x="869" y="726" width="388" height="714" frameX="-155" frameY="-31" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0001" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0002" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0003" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0004" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0005" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0006" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0007" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0008" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0009" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0010" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0011" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0012" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0013" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0014" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0015" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0016" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0017" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0018" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0019" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0020" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0021" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0022" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn-beach up0023" x="1587" y="0" width="402" height="706" frameX="-142" frameY="-39" frameWidth="671" frameHeight="743" />
+</TextureAtlas>
