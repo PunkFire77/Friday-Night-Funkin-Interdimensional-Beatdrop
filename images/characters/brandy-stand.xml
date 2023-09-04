@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="brandy-stand.png">
+<SubTexture name="brandy-stand idle0000" x="2816" y="0" width="462" height="1116" frameX="-202" frameY="-41" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand idle0001" x="2816" y="0" width="462" height="1116" frameX="-202" frameY="-41" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand idle0002" x="2359" y="0" width="457" height="1121" frameX="-204" frameY="-36" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand idle0003" x="2359" y="0" width="457" height="1121" frameX="-204" frameY="-36" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand idle0004" x="1511" y="1157" width="450" height="1126" frameX="-207" frameY="-31" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand idle0005" x="1511" y="1157" width="450" height="1126" frameX="-207" frameY="-31" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand idle0006" x="616" y="1157" width="441" height="1133" frameX="-211" frameY="-24" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand idle0007" x="616" y="1157" width="441" height="1133" frameX="-211" frameY="-24" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand idle0008" x="846" y="0" width="436" height="1138" frameX="-213" frameY="-19" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand idle0009" x="846" y="0" width="436" height="1138" frameX="-213" frameY="-19" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand left0000" x="1282" y="0" width="617" height="1137" frameX="0" frameY="-20" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand left0001" x="0" y="1157" width="616" height="1134" frameX="-8" frameY="-23" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand down0000" x="3278" y="0" width="461" height="1112" frameX="-195" frameY="-45" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand down0001" x="2816" y="1116" width="461" height="1116" frameX="-189" frameY="-41" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand up0000" x="0" y="0" width="419" height="1157" frameX="-247" frameY="0" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand up0001" x="419" y="0" width="427" height="1154" frameX="-249" frameY="-3" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand right0000" x="1899" y="0" width="460" height="1137" frameX="-240" frameY="-20" frameWidth="692" frameHeight="1149" />
+<SubTexture name="brandy-stand right0001" x="1057" y="1157" width="454" height="1133" frameX="-239" frameY="-24" frameWidth="692" frameHeight="1149" />
+</TextureAtlas>
