@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				388,
+				704
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "steven-stand idle"
+		},
+		{
+			"offsets": [
+				385,
+				704
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "steven-stand left"
+		},
+		{
+			"offsets": [
+				387,
+				704
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "steven-stand down"
+		},
+		{
+			"offsets": [
+				384,
+				704
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "steven-stand up"
+		},
+		{
+			"offsets": [
+				382,
+				704
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "steven-stand right"
+		},
+		{
+			"offsets": [
+				387,
+				704
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "steven-stand missleft"
+		},
+		{
+			"offsets": [
+				385,
+				704
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "steven-stand missdown"
+		},
+		{
+			"offsets": [
+				384,
+				704
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "steven-stand missup"
+		},
+		{
+			"offsets": [
+				386,
+				704
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "steven-stand missright"
+		},
+		{
+			"offsets": [
+				210,
+				704
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "kiss",
+			"loop": false,
+			"name": "steven-stand alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/steven-stand",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		200,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

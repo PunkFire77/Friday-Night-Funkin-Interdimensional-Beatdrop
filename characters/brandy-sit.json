@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				19,
+				167
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "brandy-sit idle"
+		},
+		{
+			"offsets": [
+				21,
+				166
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "brandy-sit left"
+		},
+		{
+			"offsets": [
+				21,
+				167
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "brandy-sit down"
+		},
+		{
+			"offsets": [
+				21,
+				168
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "brandy-sit up"
+		},
+		{
+			"offsets": [
+				20,
+				165
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "brandy-sit right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/brandy-sit",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "brandy2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		94,
+		49
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

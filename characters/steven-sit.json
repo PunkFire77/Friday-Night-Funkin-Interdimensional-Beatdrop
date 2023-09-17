@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				468,
+				534
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "steven-sit idle"
+		},
+		{
+			"offsets": [
+				465,
+				534
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "steven-sit left"
+		},
+		{
+			"offsets": [
+				467,
+				534
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "steven-sit down"
+		},
+		{
+			"offsets": [
+				464,
+				534
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "steven-sit up"
+		},
+		{
+			"offsets": [
+				462,
+				534
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "steven-sit right"
+		},
+		{
+			"offsets": [
+				467,
+				534
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "steven-sit missleft"
+		},
+		{
+			"offsets": [
+				465,
+				534
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "steven-sit missdown"
+		},
+		{
+			"offsets": [
+				464,
+				534
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "steven-sit missup"
+		},
+		{
+			"offsets": [
+				466,
+				534
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "steven-sit missright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/steven-sit",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		200,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}
