@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				19,
 				27
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "brandy-beach idle"
+			"fps": 24,
+			"name": "brandy-beach idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-9,
 				26
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "brandy-beach left"
+			"fps": 24,
+			"name": "brandy-beach left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-81,
 				27
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "brandy-beach down"
+			"fps": 24,
+			"name": "brandy-beach down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				19,
 				28
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "brandy-beach up"
+			"fps": 24,
+			"name": "brandy-beach up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				20,
 				25
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "brandy-beach right"
+			"fps": 24,
+			"name": "brandy-beach right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": true,
@@ -74,5 +74,5 @@
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 0.8
 }
