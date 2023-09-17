@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				19,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "brandy-beach idle"
+		},
+		{
+			"offsets": [
+				-9,
+				26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "brandy-beach left"
+		},
+		{
+			"offsets": [
+				-81,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "brandy-beach down"
+		},
+		{
+			"offsets": [
+				19,
+				28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "brandy-beach up"
+		},
+		{
+			"offsets": [
+				20,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "brandy-beach right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/brandy-beach",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "brandy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		94,
+		49
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
