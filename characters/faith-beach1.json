@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				540,
-				0
+				80
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "faith-beach1 idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "faith-beach1 idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				530,
-				0
+				80
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "faith-beach1 down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "faith-beach1 down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				510,
-				0
+				80
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "faith-beach1 up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				540,
-				0
-			],
-			"anim": "alt",
-			"fps": 24,
-			"name": "faith-beach1 alt",
-			"indices": []
-		},
-		{
-			"offsets": [
-				540,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
 			"indices": [],
-			"name": "faith-beach1 right"
+			"name": "faith-beach1 up"
 		},
 		{
+			"offsets": [
+				540,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "alt",
+			"indices": [],
+			"name": "faith-beach1 alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				540,
+				80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "faith-beach1 right",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				551,
-				0
+				80
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "faith-beach1 left"
+			"fps": 24,
+			"name": "faith-beach1 left",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -85,5 +85,5 @@
 		150
 	],
 	"sing_duration": 6.1,
-	"scale": 0.8
+	"scale": 1
 }

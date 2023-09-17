@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				546,
-				0
+				80
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "faith-beach2 idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "faith-beach2 idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				530,
-				0
+				80
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "faith-beach2 down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "faith-beach2 down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				510,
-				0
+				80
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "faith-beach2 up",
+			"anim": "singUP",
+			"indices": [],
+			"name": "faith-beach2 up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				540,
+				80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "faith-beach2 right",
 			"indices": []
 		},
 		{
-			"offsets": [
-				540,
-				0
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "faith-beach2 right"
-		},
-		{
 			"offsets": [
 				551,
-				0
+				80
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "faith-beach2 left"
+			"fps": 24,
+			"name": "faith-beach2 left",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -74,5 +74,5 @@
 		150
 	],
 	"sing_duration": 6.1,
-	"scale": 0.8
+	"scale": 1
 }
