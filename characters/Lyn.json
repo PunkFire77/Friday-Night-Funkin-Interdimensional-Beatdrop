@@ -1,73 +1,73 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "lyn idle"
+			"fps": 24,
+			"name": "lyn idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-68,
 				-6
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "lyn down"
+			"fps": 24,
+			"name": "lyn down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "lyn up"
+			"fps": 24,
+			"name": "lyn up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				2,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "lyn right"
+			"fps": 24,
+			"name": "lyn right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-2,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "lyn left"
+			"fps": 24,
+			"name": "lyn left",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/lyn",
 	"position": [
 		-60,
 		40
 	],
-	"healthicon": "icon",
+	"healthicon": "lyn",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		121,
+		43,
+		190
 	],
 	"camera_position": [
 		90,

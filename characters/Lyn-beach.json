@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lyn-beach idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lyn-beach left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lyn-beach down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lyn-beach up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lyn-beach right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "LEFTmiss",
+			"fps": 24,
+			"name": "lyn-beach miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "DOWNmiss",
+			"fps": 24,
+			"name": "lyn-beach miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "UPmiss",
+			"fps": 24,
+			"name": "lyn-beach miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "RIGHTmiss",
+			"fps": 24,
+			"name": "lyn-beach miss right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lyn-beach",
+	"position": [
+		-60,
+		40
+	],
+	"healthicon": "lyn",
+	"flip_x": false,
+	"healthbar_colors": [
+		121,
+		43,
+		190
+	],
+	"camera_position": [
+		90,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
