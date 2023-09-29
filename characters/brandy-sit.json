@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				19,
-				167
+				177
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "brandy-sit idle"
+			"fps": 24,
+			"name": "brandy-sit idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				21,
-				166
+				176
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "brandy-sit left"
+			"fps": 24,
+			"name": "brandy-sit left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				21,
-				167
+				177
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "brandy-sit down"
+			"fps": 24,
+			"name": "brandy-sit down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				21,
-				168
+				178
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "brandy-sit up"
+			"fps": 24,
+			"name": "brandy-sit up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				20,
-				165
+				175
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "brandy-sit right"
+			"fps": 24,
+			"name": "brandy-sit right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": true,
@@ -74,5 +74,5 @@
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 0.5
+	"scale": 0.6
 }

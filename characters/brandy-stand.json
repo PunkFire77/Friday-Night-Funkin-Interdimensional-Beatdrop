@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
-				19,
-				167
+				-131,
+				227
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "brandy-stand idle"
+			"fps": 24,
+			"name": "brandy-stand idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				21,
-				166
+				-129,
+				226
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "brandy-stand left"
+			"fps": 24,
+			"name": "brandy-stand left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				21,
-				167
+				-129,
+				227
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "brandy-stand down"
+			"fps": 24,
+			"name": "brandy-stand down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				21,
-				168
+				-129,
+				228
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "brandy-stand up"
+			"fps": 24,
+			"name": "brandy-stand up",
+			"indices": []
 		},
 		{
-			"offsets": [
-				20,
-				165
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHT",
 			"loop": false,
-			"name": "brandy-stand right"
+			"offsets": [
+				-130,
+				225
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "brandy-stand right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": true,
@@ -70,9 +70,9 @@
 		49
 	],
 	"camera_position": [
-		0,
+		150,
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 0.5
+	"scale": 0.6
 }
