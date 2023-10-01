@@ -5,10 +5,10 @@
 				388,
 				704
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"loop": false,
+			"indices": [],
 			"name": "steven-stand idle"
 		},
 		{
@@ -16,10 +16,10 @@
 				385,
 				704
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
+			"indices": [],
 			"name": "steven-stand left"
 		},
 		{
@@ -27,10 +27,10 @@
 				387,
 				704
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
+			"indices": [],
 			"name": "steven-stand down"
 		},
 		{
@@ -38,10 +38,10 @@
 				384,
 				704
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
+			"indices": [],
 			"name": "steven-stand up"
 		},
 		{
@@ -49,10 +49,10 @@
 				382,
 				704
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
+			"indices": [],
 			"name": "steven-stand right"
 		},
 		{
@@ -60,10 +60,10 @@
 				387,
 				704
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFTmiss",
-			"loop": false,
+			"indices": [],
 			"name": "steven-stand missleft"
 		},
 		{
@@ -71,10 +71,10 @@
 				385,
 				704
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWNmiss",
-			"loop": false,
+			"indices": [],
 			"name": "steven-stand missdown"
 		},
 		{
@@ -82,10 +82,10 @@
 				384,
 				704
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUPmiss",
-			"loop": false,
+			"indices": [],
 			"name": "steven-stand missup"
 		},
 		{
@@ -93,10 +93,10 @@
 				386,
 				704
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"loop": false,
+			"indices": [],
 			"name": "steven-stand missright"
 		},
 		{
@@ -107,7 +107,7 @@
 			"indices": [],
 			"fps": 24,
 			"anim": "kiss",
-			"loop": false,
+			"loop": true,
 			"name": "steven-stand alt"
 		}
 	],
@@ -117,16 +117,16 @@
 		0,
 		350
 	],
-	"healthicon": "",
+	"healthicon": "steven",
 	"flip_x": true,
 	"healthbar_colors": [
-		20,
-		200,
-		255
+		254,
+		144,
+		2
 	],
 	"camera_position": [
 		0,
-		0
+		-300
 	],
 	"sing_duration": 4,
 	"scale": 0.6
