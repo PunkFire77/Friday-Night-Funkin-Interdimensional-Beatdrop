@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				142
+			],
+			"anim": "idle",
+			"fps": 1,
+			"name": "LYN idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				265,
+				142
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LYN Note Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "LYN Note Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				308,
+				149
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "LYN Note Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				346,
+				136
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LYN Note Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				361,
+				140
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Lyn Note Right MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				247,
+				140
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LYN Note Left MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				306,
+				155
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "LYN Note Up MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				140
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "LYN Note Down MISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LYN Evil assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "LynP2",
+	"flip_x": true,
+	"healthbar_colors": [
+		76,
+		27,
+		82
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.899999999999999
+}
