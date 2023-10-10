@@ -1,0 +1,50 @@
+{
+	"storyName": "A Mysterious Portal...",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "prolog",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Pollen",
+			"faith",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Inferno",
+			"gabe",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Frozen",
+			"steven",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Prologue"
+}
