@@ -15,50 +15,6 @@
 			"loop": false,
 			"offsets": [
 				0,
-				140
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "LYN Note Down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				8,
-				143
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "LYN Note Left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-30,
-				141
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "LYN Note Up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				1,
-				133
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "LYN Note Right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
 				143
 			],
 			"anim": "singDOWNmiss",
@@ -69,7 +25,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-29,
+				-9,
 				140
 			],
 			"anim": "singUPmiss",
@@ -80,7 +36,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				10,
+				-10,
 				144
 			],
 			"anim": "singLEFTmiss",
@@ -91,7 +47,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				7,
+				-3,
 				136
 			],
 			"anim": "singRIGHTmiss",
@@ -102,7 +58,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				13,
+				3,
 				138
 			],
 			"anim": "firstDeath",
@@ -113,7 +69,7 @@
 		{
 			"loop": true,
 			"offsets": [
-				-30,
+				0,
 				136
 			],
 			"anim": "deathLoop",
@@ -124,12 +80,56 @@
 		{
 			"loop": false,
 			"offsets": [
-				-26,
+				-6,
 				138
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
 			"name": "LYN Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "LYN Note Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				143
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LYN Note Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				149
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "LYN Note Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				133
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LYN Note Right0",
 			"indices": []
 		}
 	],
@@ -144,7 +144,7 @@
 	"healthbar_colors": [
 		121,
 		43,
-		210
+		230
 	],
 	"camera_position": [
 		0,
