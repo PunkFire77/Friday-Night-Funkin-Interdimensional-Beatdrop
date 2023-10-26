@@ -8,14 +8,10 @@
 
 function onCreate()
 	-- background shit
-	makeLuaSprite('beachback', 'beach/beach_bg', -600, -300);
-	setScrollFactor('beachback', 1, 1);
-	
-	makeLuaSprite('beachfront', 'beach/beach_fg', -600, -150);
-	setScrollFactor('beachfront', 1, 1);
+	makeAnimatedLuaSprite('beach','beach/beachanimated', -150, -300)
+	addAnimationByPrefix('beach', 'idle', 'beachanimated idle', 4,true)
+	addLuaSprite('beach', false)
+	setScrollFactor('beach', .9,.9)
+	scaleObject('beach', 2.5, 2.5)
 
-	addLuaSprite('beachback', false);
-	addLuaSprite('beachfront', false);
-scaleObject('beachback', 2.5, 2.5);
-scaleObject('beachfront', 2.5, 2.5);
 end
