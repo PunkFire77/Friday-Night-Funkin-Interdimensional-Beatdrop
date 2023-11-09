@@ -38,16 +38,16 @@ playablecharacter = false -- change to 'true' if you want to flipX
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-doIdle = true
+doIdle = false
 
 function onCreate()
 	makeAnimatedLuaSprite(name_of_character, 'characters/' .. name_of_character_xml, x_position, y_position);
 
-	addAnimationByPrefix(name_of_character, 'idle', idle_xml_name, 9, true);
-	addAnimationByPrefix(name_of_character, 'singLEFT', left_xml_name, 10, false);
-	addAnimationByPrefix(name_of_character, 'singDOWN', down_xml_name, 10, false);
-	addAnimationByPrefix(name_of_character, 'singUP', up_xml_name, 10, false);
-	addAnimationByPrefix(name_of_character, 'singRIGHT', right_xml_name, 10, false);
+	addAnimationByPrefix(name_of_character, 'idle', idle_xml_name, 24, false);
+	addAnimationByPrefix(name_of_character, 'singLEFT', left_xml_name, 24, false);
+	addAnimationByPrefix(name_of_character, 'singDOWN', down_xml_name, 24, false);
+	addAnimationByPrefix(name_of_character, 'singUP', up_xml_name, 24, false);
+	addAnimationByPrefix(name_of_character, 'singRIGHT', right_xml_name, 24, false);
 
 	if playablecharacter == true then
 		setPropertyLuaSprite(name_of_character, 'flipX', true);
@@ -130,7 +130,7 @@ end
 function onBeatHit()
 	-- triggered 4 times per section
 	if curBeat % 2 == 0  and doIdle then
-		objectPlayAnimation(name_of_character, 'idle');
+		objectPlayAnimation(name_of_character, 'idle', true);
 		setProperty(name_of_character .. '.offset.x', idleoffsets[1]);
 		setProperty(name_of_character .. '.offset.y', idleoffsets[2]);
 	end
@@ -144,10 +144,8 @@ function onCountdownTick(counter)
 	-- counter = 3 -> "Go!"
 	-- counter = 4 -> Nothing happens lol, tho it is triggered at the same time as onSongStart i think
 	if counter % 2 == 0 then
-		if doIdle == true then
 			objectPlayAnimation(name_of_character, 'idle');
 			setProperty(name_of_character .. '.offset.x', idleoffsets[1]);
 			setProperty(name_of_character .. '.offset.y', idleoffsets[2]);
-		end
 	end
 end
