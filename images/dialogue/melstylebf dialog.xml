@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="melstylebf dialog.png">
+<SubTexture name="melstylebf dialog 0bf0000" x="553" y="0" width="614" height="870" frameX="-86" frameY="-80" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 0bf0001" x="553" y="0" width="614" height="870" frameX="-86" frameY="-80" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 0bf0002" x="0" y="872" width="618" height="862" frameX="-80" frameY="-88" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 0bf0003" x="0" y="872" width="618" height="862" frameX="-80" frameY="-88" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 0bf0004" x="0" y="1734" width="615" height="853" frameX="-77" frameY="-97" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 0bf0005" x="0" y="1734" width="615" height="853" frameX="-77" frameY="-97" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 1bf0000" x="1167" y="0" width="614" height="870" frameX="-86" frameY="-80" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 1bf0001" x="1167" y="0" width="614" height="870" frameX="-86" frameY="-80" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 1bf0002" x="618" y="872" width="618" height="862" frameX="-80" frameY="-88" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 1bf0003" x="618" y="872" width="618" height="862" frameX="-80" frameY="-88" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 1bf0004" x="615" y="1734" width="615" height="853" frameX="-77" frameY="-97" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 1bf0005" x="615" y="1734" width="615" height="853" frameX="-77" frameY="-97" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 2bf0000" x="2338" y="0" width="602" height="856" frameX="-93" frameY="-94" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 2bf0001" x="2338" y="0" width="602" height="856" frameX="-93" frameY="-94" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 2bf0002" x="1230" y="1734" width="609" height="853" frameX="-83" frameY="-97" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 2bf0003" x="1230" y="1734" width="609" height="853" frameX="-83" frameY="-97" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 2bf0004" x="1839" y="1734" width="613" height="852" frameX="-76" frameY="-98" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 2bf0005" x="1839" y="1734" width="613" height="852" frameX="-76" frameY="-98" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 3bf0000" x="2940" y="0" width="558" height="842" frameX="-78" frameY="-108" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 3bf0001" x="2940" y="0" width="558" height="842" frameX="-78" frameY="-108" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 3bf0002" x="0" y="2587" width="563" height="841" frameX="-77" frameY="-109" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 3bf0003" x="0" y="2587" width="563" height="841" frameX="-77" frameY="-109" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 3bf0004" x="563" y="2587" width="564" height="839" frameX="-78" frameY="-111" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 3bf0005" x="563" y="2587" width="564" height="839" frameX="-78" frameY="-111" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 4bf0000" x="0" y="0" width="553" height="872" frameX="-150" frameY="-78" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 4bf0001" x="0" y="0" width="553" height="872" frameX="-150" frameY="-78" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 4bf0002" x="1781" y="0" width="557" height="861" frameX="-142" frameY="-89" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 4bf0003" x="1781" y="0" width="557" height="861" frameX="-142" frameY="-89" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 4bf0004" x="2338" y="856" width="561" height="856" frameX="-134" frameY="-94" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstylebf dialog 4bf0005" x="2338" y="856" width="561" height="856" frameX="-134" frameY="-94" frameWidth="876" frameHeight="987" />
+</TextureAtlas>

@@ -1,0 +1,76 @@
+{
+	"position": [
+		20,
+		0
+	],
+	"dialogue_pos": "center",
+	"scale": 1.5,
+	"image": "melstylegf dialog",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "melstylegf dialog 0gf",
+			"idle_name": "melstylegf dialog 0gf0002"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "melstylegf dialog 1gf",
+			"idle_name": "melstylegf dialog 1gf0002"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "melstylegf dialog 2gf",
+			"idle_name": "melstylegf dialog 2gf0002"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "3",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "melstylegf dialog 3gf",
+			"idle_name": "melstylegf dialog 3gf0002"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "4",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "melstylegf dialog 4gf",
+			"idle_name": "melstylegf dialog 4gf0002"
+		}
+	]
+}

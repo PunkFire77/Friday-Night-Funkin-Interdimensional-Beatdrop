@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="faith-beach dialogue.png">
+<SubTexture name="faith-beach dialogue idle0000" x="0" y="0" width="425" height="689" frameX="-28" frameY="-92" frameWidth="500" frameHeight="793" />
+<SubTexture name="faith-beach dialogue idle0001" x="425" y="0" width="425" height="689" frameX="-28" frameY="-92" frameWidth="500" frameHeight="793" />
+<SubTexture name="faith-beach dialogue idle0002" x="850" y="0" width="425" height="689" frameX="-28" frameY="-92" frameWidth="500" frameHeight="793" />
+<SubTexture name="faith-beach dialogue idle0003" x="1275" y="0" width="425" height="689" frameX="-28" frameY="-92" frameWidth="500" frameHeight="793" />
+</TextureAtlas>
