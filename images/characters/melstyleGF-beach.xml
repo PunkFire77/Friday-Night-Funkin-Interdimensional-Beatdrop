@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="melstyleGF-beach.png">
+<SubTexture name="melstyleGF-beach left-dance0000" x="0" y="1440" width="706" height="716" frameX="-111" frameY="-77" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach left-dance0001" x="706" y="721" width="712" height="717" frameX="-108" frameY="-77" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach left-dance0002" x="2118" y="0" width="712" height="717" frameX="-108" frameY="-77" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach left-dance0003" x="706" y="1440" width="706" height="715" frameX="-111" frameY="-78" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach left-dance0004" x="2118" y="717" width="706" height="717" frameX="-111" frameY="-76" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach left-dance0005" x="2118" y="717" width="706" height="717" frameX="-111" frameY="-76" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach left-dance0006" x="0" y="0" width="706" height="721" frameX="-111" frameY="-72" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach left-dance0007" x="0" y="0" width="706" height="721" frameX="-111" frameY="-72" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach left-dance0008" x="706" y="0" width="706" height="721" frameX="-111" frameY="-72" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach left-dance0009" x="706" y="0" width="706" height="721" frameX="-111" frameY="-72" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach right-dance0000" x="2830" y="711" width="706" height="706" frameX="-111" frameY="-87" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach right-dance0001" x="0" y="2156" width="712" height="707" frameX="-108" frameY="-87" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach right-dance0002" x="2118" y="1440" width="712" height="712" frameX="-108" frameY="-82" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach right-dance0003" x="2830" y="0" width="706" height="711" frameX="-111" frameY="-82" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach right-dance0004" x="1412" y="1440" width="706" height="715" frameX="-111" frameY="-78" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach right-dance0005" x="1412" y="1440" width="706" height="715" frameX="-111" frameY="-78" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach right-dance0006" x="0" y="721" width="706" height="719" frameX="-111" frameY="-74" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach right-dance0007" x="0" y="721" width="706" height="719" frameX="-111" frameY="-74" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach right-dance0008" x="1412" y="0" width="706" height="720" frameX="-111" frameY="-73" frameWidth="902" frameHeight="796" />
+<SubTexture name="melstyleGF-beach right-dance0009" x="1412" y="0" width="706" height="720" frameX="-111" frameY="-73" frameWidth="902" frameHeight="796" />
+</TextureAtlas>
