@@ -1,0 +1,76 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "lyn-dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				100
+			],
+			"loop_offsets": [
+				0,
+				100
+			],
+			"anim": "talk",
+			"idle_name": "lyn-dialogue idle0004",
+			"loop_name": "lyn-beach dialogue idle0004"
+		},
+		{
+			"idle_offsets": [
+				0,
+				100
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				100
+			],
+			"idle_name": "lyn-dialogue idle0003",
+			"loop_name": "lyn-beach dialogue idle0003"
+		},
+		{
+			"idle_offsets": [
+				0,
+				100
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				100
+			],
+			"idle_name": "lyn-dialogue idle0001",
+			"loop_name": "lyn-beach dialogue idle0001"
+		},
+		{
+			"loop_offsets": [
+				0,
+				100
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				100
+			],
+			"loop_name": "lyn-beach dialogue idle0002",
+			"idle_name": "lyn-dialogue idle0002"
+		},
+		{
+			"loop_offsets": [
+				0,
+				100
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				100
+			],
+			"loop_name": "lyn-beach dialogue idle0000",
+			"idle_name": "lyn-dialogue idle0000"
+		}
+	]
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gabe-diallog.png">
+<SubTexture name="gabe-diallog idle0000" x="0" y="0" width="380" height="725" frameX="-76" frameY="-76" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-diallog idle0001" x="380" y="0" width="380" height="725" frameX="-76" frameY="-76" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-diallog idle0002" x="760" y="0" width="380" height="725" frameX="-76" frameY="-76" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-diallog idle0003" x="1140" y="0" width="380" height="725" frameX="-76" frameY="-76" frameWidth="562" frameHeight="808" />
+</TextureAtlas>

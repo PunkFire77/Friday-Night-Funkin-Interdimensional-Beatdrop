@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="faith-dialogue.png">
+<SubTexture name="faith-dialogue idle0000" x="0" y="0" width="386" height="656" frameX="-28" frameY="-116" frameWidth="500" frameHeight="793" />
+<SubTexture name="faith-dialogue idle0001" x="386" y="0" width="386" height="656" frameX="-28" frameY="-116" frameWidth="500" frameHeight="793" />
+<SubTexture name="faith-dialogue idle0002" x="772" y="0" width="386" height="656" frameX="-28" frameY="-116" frameWidth="500" frameHeight="793" />
+<SubTexture name="faith-dialogue idle0003" x="1158" y="0" width="386" height="656" frameX="-28" frameY="-116" frameWidth="500" frameHeight="793" />
+</TextureAtlas>
