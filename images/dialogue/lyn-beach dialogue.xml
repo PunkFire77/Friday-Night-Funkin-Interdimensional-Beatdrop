@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="lyn-beach dialogue.png">
-<SubTexture name="lyn-beach dialogue idle0000" x="0" y="0" width="406" height="691" frameX="-149" frameY="-46" frameWidth="671" frameHeight="743" />
-<SubTexture name="lyn-beach dialogue idle0001" x="406" y="0" width="406" height="691" frameX="-149" frameY="-46" frameWidth="671" frameHeight="743" />
-<SubTexture name="lyn-beach dialogue idle0002" x="812" y="0" width="406" height="691" frameX="-149" frameY="-46" frameWidth="671" frameHeight="743" />
-<SubTexture name="lyn-beach dialogue idle0003" x="1218" y="0" width="406" height="691" frameX="-149" frameY="-46" frameWidth="671" frameHeight="743" />
-<SubTexture name="lyn-beach dialogue idle0004" x="0" y="691" width="406" height="691" frameX="-149" frameY="-46" frameWidth="671" frameHeight="743" />
-</TextureAtlas>

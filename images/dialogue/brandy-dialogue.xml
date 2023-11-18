@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="brandy-dialogue.png">
-<SubTexture name="brandy-dialogue idle0000" x="0" y="0" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
-<SubTexture name="brandy-dialogue idle0001" x="425" y="0" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
-<SubTexture name="brandy-dialogue idle0002" x="850" y="0" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
-<SubTexture name="brandy-dialogue idle0003" x="1275" y="0" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
-</TextureAtlas>

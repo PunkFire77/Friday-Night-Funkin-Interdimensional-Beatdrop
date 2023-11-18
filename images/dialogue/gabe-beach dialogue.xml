@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="gabe-beach dialogue.png">
-<SubTexture name="gabe-beach dialogue idle0000" x="0" y="0" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
-<SubTexture name="gabe-beach dialogue idle0001" x="374" y="0" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
-<SubTexture name="gabe-beach dialogue idle0002" x="748" y="0" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
-<SubTexture name="gabe-beach dialogue idle0003" x="1122" y="0" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
-</TextureAtlas>
