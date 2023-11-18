@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		-210
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "0",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "melstylebf dialog 0bf0005",
+			"loop_name": "melstylebf dialog 0bf"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "1",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "melstylebf dialog 1bf0005",
+			"loop_name": "melstylebf dialog 1bf"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "2",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "melstylebf dialog 2bf0005",
+			"loop_name": "melstylebf dialog 2bf"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "3",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "melstylebf dialog 3bf0005",
+			"loop_name": "melstylebf dialog 3bf"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "4",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "melstylebf dialog 4bf0005",
+			"loop_name": "melstylebf dialog 4bf"
+		}
+	],
+	"image": "melstylebf dialog"
+}

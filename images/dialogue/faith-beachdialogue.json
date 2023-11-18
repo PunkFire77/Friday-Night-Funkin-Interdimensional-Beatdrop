@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-50,
+				100
+			],
+			"idle_offsets": [
+				-50,
+				100
+			],
+			"loop_name": "faith-beach dialogue normal",
+			"idle_name": "faith-beach dialogue normal0000"
+		},
+		{
+			"loop_offsets": [
+				-50,
+				100
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				-50,
+				100
+			],
+			"loop_name": "faith-beach dialogue happy",
+			"idle_name": "faith-beach dialogue happy0000"
+		},
+		{
+			"loop_offsets": [
+				-50,
+				100
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-50,
+				100
+			],
+			"loop_name": "faith-beach dialogue shock",
+			"idle_name": "faith-beach dialogue shock0000"
+		},
+		{
+			"idle_offsets": [
+				-50,
+				100
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-50,
+				100
+			],
+			"idle_name": "faith-beach dialogue nervous0000",
+			"loop_name": "faith-beach dialogue nervous"
+		}
+	],
+	"image": "faith-beach dialogue"
+}

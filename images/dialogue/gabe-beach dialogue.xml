@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gabe-beach dialogue.png">
+<SubTexture name="gabe-beach dialogue normal0000" x="0" y="0" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue normal0001" x="374" y="0" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue normal0002" x="374" y="0" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue normal0003" x="374" y="0" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue normal0004" x="374" y="0" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue happy0000" x="748" y="0" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue happy0001" x="1122" y="0" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue happy0002" x="1122" y="0" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue happy0003" x="1122" y="0" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue happy0004" x="1122" y="0" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue nervous0000" x="0" y="722" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue nervous0001" x="374" y="722" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue nervous0002" x="374" y="722" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue nervous0003" x="374" y="722" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue nervous0004" x="374" y="722" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue shock0000" x="748" y="722" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue shock0001" x="1122" y="722" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue shock0002" x="1122" y="722" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue shock0003" x="1122" y="722" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+<SubTexture name="gabe-beach dialogue shock0004" x="1122" y="722" width="374" height="722" frameX="-82" frameY="-80" frameWidth="562" frameHeight="808" />
+</TextureAtlas>

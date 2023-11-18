@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				25,
+				140
+			],
+			"idle_offsets": [
+				25,
+				140
+			],
+			"loop_name": "brandy dialogue normal",
+			"idle_name": "brandy dialogue normal0000"
+		},
+		{
+			"loop_offsets": [
+				25,
+				140
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				25,
+				140
+			],
+			"loop_name": "brandy dialogue happy",
+			"idle_name": "brandy dialogue happy0000"
+		},
+		{
+			"loop_offsets": [
+				25,
+				140
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				25,
+				140
+			],
+			"loop_name": "brandy dialogue shock",
+			"idle_name": "brandy dialogue shock0000"
+		},
+		{
+			"idle_offsets": [
+				25,
+				140
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				25,
+				139
+			],
+			"idle_name": "brandy dialogue nervous0000",
+			"loop_name": "brandy dialogue nervous"
+		}
+	],
+	"image": "brandy dialogue"
+}

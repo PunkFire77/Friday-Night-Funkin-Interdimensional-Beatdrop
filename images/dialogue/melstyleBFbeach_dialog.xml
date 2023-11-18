@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="melstyleBFbeach dialog.png">
+<SubTexture name="melstyleBFbeach dialog 00000" x="553" y="0" width="614" height="866" frameX="-86" frameY="-80" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 00001" x="553" y="0" width="614" height="866" frameX="-86" frameY="-80" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 00002" x="0" y="868" width="618" height="858" frameX="-80" frameY="-88" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 00003" x="0" y="868" width="618" height="858" frameX="-80" frameY="-88" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 00004" x="0" y="1726" width="615" height="849" frameX="-77" frameY="-97" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 00005" x="0" y="1726" width="615" height="849" frameX="-77" frameY="-97" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 10000" x="1167" y="0" width="614" height="866" frameX="-86" frameY="-80" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 10001" x="1167" y="0" width="614" height="866" frameX="-86" frameY="-80" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 10002" x="618" y="868" width="618" height="858" frameX="-80" frameY="-88" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 10003" x="618" y="868" width="618" height="858" frameX="-80" frameY="-88" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 10004" x="615" y="1726" width="615" height="849" frameX="-77" frameY="-97" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 10005" x="615" y="1726" width="615" height="849" frameX="-77" frameY="-97" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 20000" x="2338" y="0" width="602" height="852" frameX="-93" frameY="-94" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 20001" x="2338" y="0" width="602" height="852" frameX="-93" frameY="-94" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 20002" x="1230" y="1726" width="609" height="849" frameX="-83" frameY="-97" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 20003" x="1230" y="1726" width="609" height="849" frameX="-83" frameY="-97" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 20004" x="1839" y="1726" width="613" height="848" frameX="-76" frameY="-98" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 20005" x="1839" y="1726" width="613" height="848" frameX="-76" frameY="-98" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 30000" x="2940" y="0" width="559" height="838" frameX="-78" frameY="-108" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 30001" x="2940" y="0" width="559" height="838" frameX="-78" frameY="-108" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 30002" x="0" y="2575" width="566" height="837" frameX="-77" frameY="-109" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 30003" x="0" y="2575" width="566" height="837" frameX="-77" frameY="-109" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 30004" x="566" y="2575" width="565" height="835" frameX="-78" frameY="-111" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 30005" x="566" y="2575" width="565" height="835" frameX="-78" frameY="-111" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 40000" x="0" y="0" width="553" height="868" frameX="-150" frameY="-78" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 40001" x="0" y="0" width="553" height="868" frameX="-150" frameY="-78" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 40002" x="1781" y="0" width="557" height="857" frameX="-142" frameY="-89" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 40003" x="1781" y="0" width="557" height="857" frameX="-142" frameY="-89" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 40004" x="2338" y="852" width="561" height="852" frameX="-134" frameY="-94" frameWidth="876" frameHeight="987" />
+<SubTexture name="melstyleBFbeach dialog 40005" x="2338" y="852" width="561" height="852" frameX="-134" frameY="-94" frameWidth="876" frameHeight="987" />
+</TextureAtlas>

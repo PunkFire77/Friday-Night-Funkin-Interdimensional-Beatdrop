@@ -1,0 +1,76 @@
+{
+	"position": [
+		0,
+		-210
+	],
+	"dialogue_pos": "right",
+	"scale": 1,
+	"image": "melstyleBFbeach dialog",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "melstyleBFbeach dialog 0",
+			"idle_name": "melstyleBFbeach dialog 00005"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "melstyleBFbeach dialog 1",
+			"idle_name": "melstyleBFbeach dialog 10005"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "melstyleBFbeach dialog 2",
+			"idle_name": "melstyleBFbeach dialog 20005"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "3",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "melstyleBFbeach dialog 3",
+			"idle_name": " dialogmelstyleBFbeach dialog 30005"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "4",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "melstyleBFbeach dialog 4",
+			"idle_name": "melstyleBFbeach dialog 40005"
+		}
+	]
+}

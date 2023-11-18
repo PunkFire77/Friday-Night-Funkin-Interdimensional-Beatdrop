@@ -1,0 +1,63 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "brandy-beach dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				25,
+				140
+			],
+			"loop_offsets": [
+				25,
+				140
+			],
+			"anim": "talk",
+			"idle_name": "brandy-beach dialogue normal0000",
+			"loop_name": "brandy-beach dialogue normal"
+		},
+		{
+			"idle_offsets": [
+				25,
+				140
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				25,
+				140
+			],
+			"idle_name": "brandy-beach dialogue happy0000",
+			"loop_name": "brandy-beach dialogue happy"
+		},
+		{
+			"idle_offsets": [
+				25,
+				140
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				25,
+				140
+			],
+			"idle_name": "brandy-beach dialogue shock0000",
+			"loop_name": "brandy-beach dialogue shock"
+		},
+		{
+			"loop_offsets": [
+				25,
+				140
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				25,
+				140
+			],
+			"loop_name": "brandy-beach dialogue nervous",
+			"idle_name": "brandy-beach dialogue nervous0000"
+		}
+	]
+}

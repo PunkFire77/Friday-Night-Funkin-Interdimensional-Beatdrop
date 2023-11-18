@@ -1,0 +1,63 @@
+{
+	"position": [
+		50,
+		-80
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "gabe-beach dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "gabe-beach dialogue normal0000",
+			"loop_name": "gabe-beach dialogue normal"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gabe-beach dialogue happy0000",
+			"loop_name": "gabe-beach dialogue happy"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gabe-beach dialogue shock0000",
+			"loop_name": "gabe-beach dialogue shock"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gabe-beach dialogue nervous",
+			"idle_name": "gabe-beach dialogue nervous0000"
+		}
+	]
+}

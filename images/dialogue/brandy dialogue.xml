@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="brandy dialogue.png">
+<SubTexture name="brandy dialogue normal0000" x="1275" y="0" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue normal0001" x="0" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue normal0002" x="0" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue normal0003" x="0" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue normal0004" x="0" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue happy0000" x="850" y="0" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue happy0001" x="425" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue happy0002" x="425" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue happy0003" x="425" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue happy0004" x="425" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue nervous0000" x="425" y="0" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue nervous0001" x="850" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue nervous0002" x="850" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue nervous0003" x="850" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue nervous0004" x="850" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue shock0000" x="0" y="0" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue shock0001" x="1275" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue shock0002" x="1275" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue shock0003" x="1275" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+<SubTexture name="brandy dialogue shock0004" x="1275" y="680" width="425" height="680" frameX="-155" frameY="-142" frameWidth="746" frameHeight="836" />
+</TextureAtlas>

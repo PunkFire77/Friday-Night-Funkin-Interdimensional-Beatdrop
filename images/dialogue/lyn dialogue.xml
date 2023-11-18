@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lyn dialogue.png">
+<SubTexture name="lyn dialogue normal0000" x="0" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue normal0001" x="406" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue normal0002" x="406" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue normal0003" x="406" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue normal0004" x="406" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue happy0000" x="1218" y="0" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue happy0001" x="812" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue happy0002" x="812" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue happy0003" x="812" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue happy0004" x="812" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue nervous0000" x="812" y="0" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue nervous0001" x="1218" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue nervous0002" x="1218" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue nervous0003" x="1218" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue nervous0004" x="1218" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue shock0000" x="406" y="0" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue shock0001" x="1624" y="0" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue shock0002" x="1624" y="0" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue shock0003" x="1624" y="0" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue shock0004" x="1624" y="0" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue mad0000" x="0" y="0" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue mad0001" x="1624" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue mad0002" x="1624" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue mad0003" x="1624" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+<SubTexture name="lyn dialogue mad0004" x="1624" y="697" width="406" height="697" frameX="-149" frameY="-35" frameWidth="671" frameHeight="743" />
+</TextureAtlas>

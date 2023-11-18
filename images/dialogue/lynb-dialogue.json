@@ -1,0 +1,77 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"no_antialiasing": false,
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				100
+			],
+			"idle_offsets": [
+				0,
+				100
+			],
+			"loop_name": "lynb-dialogue normal",
+			"idle_name": "lynb-dialogue normal0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				100
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				0,
+				100
+			],
+			"loop_name": "lynb-dialogue happy",
+			"idle_name": "lynb-dialogue happy0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				100
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				0,
+				100
+			],
+			"loop_name": "lynb-dialogue shock",
+			"idle_name": "lynb-dialogue shock0000"
+		},
+		{
+			"idle_offsets": [
+				0,
+				100
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				100
+			],
+			"idle_name": "lynb-dialogue nervous0000",
+			"loop_name": "lynb-dialogue nervous"
+		},
+		{
+			"idle_offsets": [
+				0,
+				100
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				100
+			],
+			"idle_name": "lynb-dialogue mad0000",
+			"loop_name": "lynb-dialogue mad"
+		}
+	],
+	"image": "lynb-dialogue"
+}
